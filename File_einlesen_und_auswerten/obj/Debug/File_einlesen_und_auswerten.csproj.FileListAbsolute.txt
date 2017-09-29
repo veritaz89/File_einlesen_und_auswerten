@@ -1,1 +1,9 @@
 C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\bin\Debug\File_einlesen_und_auswerten.exe.config
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\bin\Debug\HH_P30_NAV71_2017_09_29.txt
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\bin\Debug\File_einlesen_und_auswerten.exe
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\bin\Debug\File_einlesen_und_auswerten.pdb
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\obj\Debug\File_einlesen_und_auswerten.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\obj\Debug\File_einlesen_und_auswerten.exe
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\obj\Debug\File_einlesen_und_auswerten.pdb
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\bin\Debug\HH_Alle Pages_NAV71_2017_09_27.txt
+C:\Users\Alexandra.Briese\Documents\Visual Studio 2015\Projects\File_einlesen_und_auswerten\File_einlesen_und_auswerten\bin\Debug\Pages.txt
